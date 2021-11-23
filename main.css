@@ -14,8 +14,4 @@ p{
 	background-attachment: fixed;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: rgba(0,0,0,.2);
-    
-}
-audio{
-    background: #FFFFFF;
-}
+    text-align: justify;
